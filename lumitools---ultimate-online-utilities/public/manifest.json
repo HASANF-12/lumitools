@@ -1,0 +1,44 @@
+{
+  "name": "Lumitools - Ultimate Online Utilities",
+  "short_name": "Lumitools",
+  "description": "A high-performance, privacy-focused suite of online utilities for developers and creators. No server uploads, purely client-side.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#09090b",
+  "theme_color": "#6366f1",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["utilities", "productivity", "developer"],
+  "screenshots": [],
+  "shortcuts": [
+    {
+      "name": "Text Tools",
+      "short_name": "Text",
+      "description": "Access text manipulation tools",
+      "url": "/#/category/text-tools",
+      "icons": [{ "src": "/icon-192.png", "sizes": "192x192" }]
+    },
+    {
+      "name": "Developer Tools",
+      "short_name": "Dev",
+      "description": "Access developer utilities",
+      "url": "/#/category/developer-tools",
+      "icons": [{ "src": "/icon-192.png", "sizes": "192x192" }]
+    }
+  ]
+}
+
+

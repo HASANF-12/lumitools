@@ -1,0 +1,7 @@
+{
+  "name": "Lumitools - Ultimate Online Utilities",
+  "description": "A high-performance, privacy-focused suite of online utilities for developers and creators. No server uploads, purely client-side.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
